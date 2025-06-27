@@ -1,0 +1,9 @@
+*.vsidx
+/CppStudy/.vs/CppStudy/v17
+/CppStudy/CodingTest/x64
+CppStudy/x64/Debug/CodingTest.exe
+CppStudy/x64/Debug/CodingTest.pdb
+CppStudy/CppStudy.sln
+CppStudy/CodingTest/CodingTest.vcxproj.user
+CppStudy/CodingTest/CodingTest.vcxproj.filters
+CppStudy/CodingTest/CodingTest.vcxproj
